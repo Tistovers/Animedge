@@ -1,4 +1,4 @@
-# <img src="Animedge.png" alt="ANIMEDGE Logo">
+# <img src="logo.png" alt="ANIMEDGE Logo">
 Express Your Creativity
 <!DOCTYPE html>
  <html>
