@@ -1,5 +1,5 @@
-# Animedge
-Animation Website
+# <img src="Animedge.png" alt="ANIMEDGE Logo">
+Express Your Creativity
 <!DOCTYPE html>
  <html>
  <head>
