@@ -1,9 +1,4 @@
 # <img src="logo.png" alt="ANIMEDGE Logo">
-Express Your Creativity
-<!DOCTYPE html>
- <html>
- <head>
-    <title>Blender 2D Animation Clone</title>
  </head>
  <body>
     <div id="canvasContainer">
