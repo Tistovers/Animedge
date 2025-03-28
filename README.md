@@ -1,4 +1,3 @@
-# <img src="logo.png" alt="ANIMEDGE Logo">
  </head>
  <body>
     <div id="canvasContainer">
