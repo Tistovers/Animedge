@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Animedge</title>
-    <meta name="google-site-verification" content="google3d9c7ff78eb86185" />
+    <meta name="google-site-verification" content="4Q5r82WaOuRxkSARHBVoolxtK3yW_bfIcM2Ejju4i7w" />
 </head>
 <body>
     <div id="canvasContainer">
