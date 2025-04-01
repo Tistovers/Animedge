@@ -6,10 +6,7 @@
     <meta name="google-site-verification" content="some-code-here" />
 </head>
 <body>
-    <img src="Animedge.png" alt="ANIMEDGE Logo">
-    <div id="canvasContainer">
-       <canvas id="animationCanvas" width="800" height="500"></canvas>
-    </div>
+    
  
     <!-- Control Panel with Color and Brush Size Options -->
     <div id="controlPanel">
