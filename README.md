@@ -1,5 +1,12 @@
- </head>
- <body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Animedge</title>
+    <meta name="google-site-verification" content="some-code-here" />
+</head>
+<body>
+    <img src="Animedge.png" alt="ANIMEDGE Logo">
     <div id="canvasContainer">
        <canvas id="animationCanvas" width="800" height="500"></canvas>
     </div>
@@ -549,5 +556,5 @@
           background: #222;
        }
     </style>
- </body>
- </html>
+</body>
+</html>
