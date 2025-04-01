@@ -3,10 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <title>Animedge</title>
-    <meta name="google-site-verification" content="some-code-here" />
+    <meta name="google-site-verification" content="google3d9c7ff78eb86185" />
 </head>
 <body>
-    
+    <div id="canvasContainer">
+       <canvas id="animationCanvas" width="800" height="500"></canvas>
+    </div>
  
     <!-- Control Panel with Color and Brush Size Options -->
     <div id="controlPanel">
